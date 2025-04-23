@@ -1,4 +1,4 @@
-# Simulador-apostas
+# Simulador de apostas
 Analisador de apostas esportivas em python 
 
 Este é um projero em python que simula uma banca de apostas e ajuda a anasar jogos com base em critérios simples e objetivos . Ideal para quem quer aprender lógica de progrmação com algo prático e divertido.
